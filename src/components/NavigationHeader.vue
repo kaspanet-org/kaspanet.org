@@ -1,10 +1,10 @@
 <template>
-    <nav class="navbar navbar-dark navbar-expand-md fixed-top bg-transparent">
+    <nav class="navbar navbar-dark navbar-expand-md fixed-top shadow-sm bg-white">
         <div class="container">
             <div class="brand">
                 <router-link class="navbar-brand" to="/">
                     <img src="@/assets/logo.svg" width="48" />
-                    <span class="ms-3">Kaspa</span>
+                    <span class="ms-3">KASPA</span>
                 </router-link>
             </div>
 
