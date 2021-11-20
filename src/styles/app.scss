@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Inter");
+@import url("https://fonts.googleapis.com/css?family=Lexend+Deca");
+
+@import "./variables.scss";
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: $success;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: $success;
+}
+
+html,
+body,
+#app {
+    height: 100%;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.navbar {
+    min-height: $navbar-height;
+    backdrop-filter: blur(12px);
+
+    @-moz-document url-prefix() {
+        & {
+            background-color: $body-bg !important;
+        }
+    }
+
+    .brand {
+        min-height: $navbar-height;
+        display: flex;
+        align-items: center;
+
+        .navbar-brand {
+            color: $body-color;
+        }
+    }
+}
+
+.content {
+    height: 100%;
+
+    > .home {
+        padding-top: calc($navbar-height * 2);
+        padding-bottom: calc($navbar-height * 2);
+        width: 100%;
+
+        @media (min-width: map-get($grid-breakpoints, lg)) {
+            height: 100%;
+        }
+    }
+}

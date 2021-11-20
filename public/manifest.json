@@ -1,0 +1,10 @@
+{
+    "name": "Kaspa",
+    "short_name": "Kaspa",
+    "lang": "en",
+    "start_url": "/",
+    "orientation": "portrait",
+    "theme_color": "#000",
+    "background_color": "#fff",
+    "display": "browser"
+}
