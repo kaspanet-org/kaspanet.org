@@ -1,4 +1,4 @@
-# token-website
+# kaspanet.org
 
 ## Project setup
 ```

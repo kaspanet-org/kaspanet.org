@@ -1,9 +1,11 @@
-@import url("https://fonts.googleapis.com/css?family=Inter");
-@import url("https://fonts.googleapis.com/css?family=Lexend+Deca");
+@import './variables.scss';
 
-@import "./variables.scss";
+@import 'node_modules/bootstrap/scss/bootstrap';
 
-@import "node_modules/bootstrap/scss/bootstrap";
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('./../assets/CascadiaCode.woff2') format('woff2');
+}
 
 ::-webkit-scrollbar {
     width: 10px;
@@ -24,6 +26,8 @@
 html,
 body,
 #app {
+    font-family: 'Cascadia Code', sans-serif;
+    color: $body-color;
     height: 100%;
 }
 
@@ -33,22 +37,15 @@ body,
 
 .navbar {
     min-height: $navbar-height;
-    backdrop-filter: blur(12px);
 
-    @-moz-document url-prefix() {
-        & {
-            background-color: $body-bg !important;
-        }
+    .nav-link, .navbar-brand {
+        color: $body-color !important;
     }
 
     .brand {
         min-height: $navbar-height;
         display: flex;
         align-items: center;
-
-        .navbar-brand {
-            color: $body-color;
-        }
     }
 }
 
