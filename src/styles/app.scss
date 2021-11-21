@@ -7,22 +7,6 @@
     src: url('./../assets/CascadiaCode.woff2') format('woff2');
 }
 
-::-webkit-scrollbar {
-    width: 10px;
-}
-
-::-webkit-scrollbar-track {
-    background: #f1f1f1;
-}
-
-::-webkit-scrollbar-thumb {
-    background: $success;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: $success;
-}
-
 html,
 body,
 #app {
