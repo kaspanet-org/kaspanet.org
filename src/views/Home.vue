@@ -31,7 +31,7 @@
             <ul>
                 <li><strong>Mining</strong>: You can join the efforts buy setting up a mining node, see instructions <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">here</a> and more detailed instruction for Windows users <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">here</a>.</li>
                 <li><strong>Trading</strong>: Kaspa has not been listed on any exchanges yet, however, there is a trading channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
-                <li><strong>Bounties</strong>: a lot of community members offer bounties for people who contribute to the Kaspa community and ecosphere by running servers, writing toturials, etc.. Check out the bounties channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
+                <li><strong>Bounties</strong>: A lot of community members offer bounties for people who contribute to the Kaspa community and ecosphere by running servers, writing toturials, etc.. Check out the bounties channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
             </ul>
             Kaspa may be earned by using your computer's CPU to mine it or by exchanging it in the Kaspa trade channel
             <br>
