@@ -7,7 +7,7 @@
         </p>
         
         <p>
-            Kaspa is a proof-of-work cryptocurrency which implements <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the GHOSTDAG protocol</a>. Unlike traditional blockchains, GHOSTDAG does not orphan blocks created in parallel (whereby our blockchain is actually a block<i>DAG</i>), but rather allows them to coexist orders them in concensus (you can see GHOSTDAG in action in our real time <a href="http://kgi.Kaspanet.org/" target="_blank">blockDAG visualizer</a>). This generalization of Nakamoto concencsus allows for secure operation while maintaining very high block rates (currently one block per second), and minusucule confirmation times (cf. chapter 6 of the <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the paper</a> for some initial benchmarks). The Kaspa implementation includes a lot of cool features including subnetwork support (which will make future implementation of layer 2 solutions much easier) and block pruning.
+            Kaspa is a proof-of-work cryptocurrency which implements <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the GHOSTDAG protocol</a>. Unlike traditional blockchains, GHOSTDAG does not orphan blocks created in parallel (whereby our blockchain is actually a block<i>DAG</i>), but rather allows them to coexist and orders them in concensus (you can see GHOSTDAG in action in our real time <a href="http://kgi.Kaspanet.org/" target="_blank">blockDAG visualizer</a>). This generalization of Nakamoto concencsus allows for secure operation while maintaining very high block rates (currently one block per second), and minusucule confirmation times (cf. chapter 6 of the <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the paper</a> for some initial benchmarks). The Kaspa implementation includes a lot of cool features including subnetwork support (which will make future implementation of layer 2 solutions much easier) and block pruning.
         </p>
         
         <p>
@@ -29,13 +29,10 @@
         <p>
             There are currently three ways to obtain Kaspa:
             <ul>
-                <li><strong>Mining</strong>: You can join the efforts buy setting up a mining node, see instructions <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">here</a> and more detailed instruction for Windows users <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">here</a>.</li>
+                <li><strong>Mining</strong>: You can join the efforts by setting up a mining node, see instructions <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">here</a> and more detailed instruction for Windows users <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">here</a>.</li>
                 <li><strong>Trading</strong>: Kaspa has not been listed on any exchanges yet, however, there is a trading channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
                 <li><strong>Bounties</strong>: A lot of community members offer bounties for people who contribute to the Kaspa community and ecosphere by running servers, writing toturials, etc.. Check out the bounties channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
             </ul>
-            Kaspa may be earned by using your computer's CPU to mine it or by exchanging it in the Kaspa trade channel
-            <br>
-            Kaspa hasn't been listed on any exchanges yet, remember that and don't let yourself be scammed
         </p>
 
         <br>
@@ -43,7 +40,7 @@
         
         <h5>Is there a Kaspa wallet?</h5>
         <p>
-            At the moment, Kaspa does not have a GUI wallet. The Kaspa codebase contains a CLI wallet which requires a full node to operate.
+            At the moment, Kaspa does not have a GUI wallet. The Kaspa codebase contains a CLI wallet which requires a full node to operate. Want to help us create a GUI wallet? Contact us on our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>! You might even gain some bounties.
         </p>
         
         <h5>Useful Links</h5>
