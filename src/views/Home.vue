@@ -7,22 +7,37 @@
         </p>
         
         <p>
-            Kaspa is a proof-of-work cryptocurrency which implements <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the GHOSTDAG protocol</a>. Unlike traditional blockchains, GHOSTDAG does not orphan blocks created in parallel (whereby our blockchain is actually a block<i>DAG</i>), but rather allows them to coexist and orders them in concensus (you can see GHOSTDAG in action in our real time <a href="http://kgi.Kaspanet.org/" target="_blank">blockDAG visualizer</a>). This generalization of Nakamoto concencsus allows for secure operation while maintaining very high block rates (currently one block per second), and minusucule confirmation times (cf. chapter 6 of the <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the paper</a> for some initial benchmarks). The Kaspa implementation includes a lot of cool features including subnetwork support (which will make future implementation of layer 2 solutions much easier) and block pruning.
+            Kaspa is a proof-of-work cryptocurrency which implements <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the GHOSTDAG protocol</a>. Unlike traditional blockchains, GHOSTDAG does not orphan blocks created in parallel, rather allows them to coexist and orders them in concensus. Whereby our blockchain is actually a block<i>DAG</i>; you can see GHOSTDAG in action in a real time <a href="http://kgi.Kaspanet.org/" target="_blank">blockDAG visualizer</a>). This generalization of Nakamoto consensus allows for secure operation while maintaining very high block rates (currently one block per second, aiming for 10/sec, dreaming of 100/sec) and minusucule confirmation times domianated by internet latency (cf. chapter 6 of the <a href="https://eprint.iacr.org/2018/104.pdf" target="_blank">the paper</a> for some initial benchmarks). The Kaspa implementation includes a lot of cool features and subprotocols including Reachability to query the DAG's topology (Sutton add link), DAG pruning (Shai add link), SPV proofs (Ori add link), and later subnetwork support which will make future implementation of layer 2 solutions much easier. 
         </p>
         
         <p>
-            Kaspa is a community project which is completely open source. The mainnet was openly launched without premining or any other preallocation of coins.
+            Kaspa is a community project, completely open source, no central governance, no biz model. Think Bitcoin, Litecoin, Monero, Grin, Kaspa. The mainnet was openly launched without premining or any other preallocation of coins.
+        </p>
+        
+
+
+        <p>
+            <a href="https://github.com/kaspanet/docs/blob/main/About%20Kaspa/Overview.md" target="_blank">Kaspa overview</a>
+        </p>
+
+<p>
+            <a href="https://github.com/kaspanet/docs/blob/main/About%20Kaspa/Vision.md" target="_blank">Kaspa vision</a>
+        </p>
+
+        <p>
+            <a href="https://hashdag.medium.com/kaspa-launch-plan-9a63f4d754a6" target="_blank">Kaspa growing pains I</a>
         </p>
         
         <p>
-            <a href="https://hashdag.medium.com/Kaspa-launch-plan-responding-to-reality-6b4bec449037" target="_blank">The future of Kaspa</a>
+            <a href="https://hashdag.medium.com/Kaspa-launch-plan-responding-to-reality-6b4bec449037" target="_blank">Kaspa growing pains II</a>
         </p>
+
 
         <br>
         
         <h5>Sounds interesting, how can I engage the Kaspa community?</h5>
         <p>
-            The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow our <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
+            The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow this <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
         </p>
 
         <h5>How can I get Kaspa?</h5>
@@ -30,8 +45,8 @@
             There are currently three ways to obtain Kaspa:
             <ul>
                 <li><strong>Mining</strong>: You can join the efforts by setting up a mining node, see instructions <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">here</a> and more detailed instruction for Windows users <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">here</a>.</li>
-                <li><strong>Trading</strong>: Kaspa has not been listed on any exchanges yet, however, there is a trading channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
                 <li><strong>Bounties</strong>: A lot of community members offer bounties for people who contribute to the Kaspa community and ecosphere by running servers, writing toturials, etc.. Check out the bounties channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
+                <li><strong>Trading</strong>: Kaspa has not been listed on any exchanges yet, however, there is a trading channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
             </ul>
         </p>
 
