@@ -20,7 +20,7 @@
 
         <br>
         
-        <h5>Sounds interesting, how can I engage the Kaspa community?<\h5>
+        <h5>Sounds interesting, how can I engage the Kaspa community?</h5>
         <p>
             The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow our <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
         </p>
@@ -29,9 +29,9 @@
         <p>
             There are currently three ways to obtain Kaspa:
             <ul>
-                <li> <strong>Mining</strong>: You can join the efforts buy setting up a mining node, see instructions <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">here</a> and more detailed instruction for Windows users <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">here</a>.
-                <li> <strong>Trading</strong>: Kaspa has not been listed on any exchanges yet, however, there is a trading channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.
-                <li> <strong>Bounties</strong>: a lot of community members offer bounties for people who contribute to the Kaspa community and ecosphere by running servers, writing toturials, etc.. Check out the bounties channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.
+                <li><strong>Mining</strong>: You can join the efforts buy setting up a mining node, see instructions <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">here</a> and more detailed instruction for Windows users <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">here</a>.</li>
+                <li><strong>Trading</strong>: Kaspa has not been listed on any exchanges yet, however, there is a trading channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
+                <li><strong>Bounties</strong>: a lot of community members offer bounties for people who contribute to the Kaspa community and ecosphere by running servers, writing toturials, etc.. Check out the bounties channel in our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>.</li>
             </ul>
             Kaspa may be earned by using your computer's CPU to mine it or by exchanging it in the Kaspa trade channel
             <br>
@@ -49,10 +49,10 @@
         <h5>Useful Links</h5>
         <p>
             <ul>
-                <li> Community hubs: <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>, <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a>, <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>, <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
-                <li> Getting started guides: <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">the "official" guide</a>,  <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">screenshot guide for Windows users</a>.
-                <li> Analytic tools: <a href="http://katnip.Kaspanet.org/" target="_blank">Katnip block explorer</a> (<a href="http://blockexplorer.Kaspanet.org/" target="_blank">Mirror</a>), <a href="http://kgi.Kaspanet.org/" target="_blank">KGI blockDAG visualizer</a>, <a href="http://kasboard.Kaspanet.org/" target="_blank">Kaspa board</a>.
-                <li>  <a href="https://github.com/elichai/Kaspa-miner/releases/latest" target="_blank">Elichai's miner</a>.
+                <li>Community hubs: <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>, <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a>, <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>, <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.</li>
+                <li>Getting started guides: <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">the "official" guide</a>,  <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">screenshot guide for Windows users</a>.</li>
+                <li>Analytic tools: <a href="http://katnip.Kaspanet.org/" target="_blank">Katnip block explorer</a> (<a href="http://blockexplorer.Kaspanet.org/" target="_blank">Mirror</a>), <a href="http://kgi.Kaspanet.org/" target="_blank">KGI blockDAG visualizer</a>, <a href="http://kasboard.Kaspanet.org/" target="_blank">Kaspa board</a>.</li>
+                <li><a href="https://github.com/elichai/Kaspa-miner/releases/latest" target="_blank">Elichai's miner</a>.</li>
 
             </ul>
         </p>
