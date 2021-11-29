@@ -35,11 +35,17 @@
 
         <br>
         
+        <h5>OK, but what <i>is<\i> Kaspa? Can I understand it without reading a long research paper?</h5>
+        
+        For a friendly overview of the core ideas of Kaspa, you can start with <a href="https://medium.com/@shai.wyborski/kaspa-what-are-we-actually-doing-here-fd7b2e420ad1" target="_blank">this post</a>.
+
+        For a more in-depth (but still not technical) account, you can proceed to these posts: <a href="https://someone235.medium.com/how-increasing-the-throughput-harms-bitcoins-security-76ed62313227" target="_blank">part 1</a> <a href="https://someone235.medium.com/scaling-bitcoin-with-blockdag-d785174a3402" target="_blank">part 2</a>.
+        
         <h5>Sounds interesting, how can I engage the Kaspa community?</h5>
         <p>
             The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow this <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
         </p>
-
+        
         <h5>How can I get Kaspa?</h5>
         <p>
             There are currently three ways to obtain Kaspa:
