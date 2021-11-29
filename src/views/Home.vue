@@ -35,7 +35,7 @@
 
         <br>
         
-        <h5>OK, but what <i>is<\i> Kaspa? Can I understand it without reading a long research paper?</h5>
+        <h5>OK, but what <i>is</i> Kaspa? Can I understand it without reading a long research paper?</h5>
         
         For a friendly overview of the core ideas of Kaspa, you can start with <a href="https://medium.com/@shai.wyborski/kaspa-what-are-we-actually-doing-here-fd7b2e420ad1" target="_blank">this post</a>.
 
