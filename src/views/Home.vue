@@ -47,7 +47,7 @@
             The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow this <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
         </p>
 
-        <h5>What kind of Hashing algorithm does Kaspa use></h5>
+        <h5>What kind of Hashing algorithm does Kaspa use?</h5>
         <p>
             Kaspa uses a modified version of <a href="https://arxiv.org/pdf/1911.05193.pdf" target="_blank">HeavyHash</a>. HeavyHash sandwhiches a matrix multiplication step between two "standard" hashes (e.g. keccak). The matrix multiplication phase is designed such that it would be efficient to calculate on specially designed photonic based devices in the future. The hash was chosen by the community in an open discussion a day before the mainnet has launched.
         </p>
@@ -64,7 +64,7 @@
 
         <br>
 
-        <h5>What will be the total supply of Kaspa</h5>
+        <h5>What will be the total supply of Kaspa?</h5>
         <p>
         The monetary policy has two phases
         <ol>
