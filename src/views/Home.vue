@@ -35,7 +35,7 @@
 
         <br>
         
-        <h5>OK, but what <i>is</i> Kaspa? Can I understand it without reading a long research paper?</h5>
+        <h5>OK, but what <i>is</i> Kaspa? Can I understand how it works without reading a long research paper?</h5>
         
         <p>
         For a friendly overview of the core ideas of Kaspa, you can start with <a href="https://medium.com/@shai.wyborski/kaspa-what-are-we-actually-doing-here-fd7b2e420ad1" target="_blank">this post</a>.
@@ -46,7 +46,12 @@
         <p>
             The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow this <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
         </p>
-        
+
+        <h5>What kind of Hashing algorithm does Kaspa use></h5>
+        <p>
+            Kaspa uses a modified version of <a href="https://arxiv.org/pdf/1911.05193.pdf" target="_blank">HeavyHash</a>. HeavyHash sandwhiches a matrix multiplication step between two "standard" hashes (e.g. keccak). The matrix multiplication phase is designed such that it would be efficient to calculate on specially designed photonic based devices in the future. The hash was chosen by the community in an open discussion a day before the mainnet has launched.
+        </p>
+
         <h5>How can I get Kaspa?</h5>
         <p>
             There are currently three ways to obtain Kaspa:
@@ -58,7 +63,26 @@
         </p>
 
         <br>
-        
+
+        <h5>What will be the total supply of Kaspa</h5>
+        <p>
+        The monetary policy has two phases
+        <ol>
+            <li><strong>The pre-deflationary phase</strong> which will last throught the first six months of the network, during which block rewards will be 500 Kas per second.</li>
+            <li>The chromatic phase in which block rewards geometrically decrease. The initial block reward will be 440 KAS. The block reward will be halved once per year, but smoothly: every month, we will decrease the block reward by a factor of (1/2)^(1/12).  (this means that the ratio of block rewards in consecutive months is exactly the same as the ratio of frequencies of two consecutive semitones in a tempered chromatic scale. The initial block reward is the frequency of the note A4, and every averaged year is hence called an octave).</li>
+        </ol>
+        Here, a year (or an octave) is 365.25 days, and a month (or semitone) is exactly one 12th of a year.
+        </p>
+        <p>
+        Note that the policy dictates how many coins are minted per second regardless of the block rate. Should we change the block rate in the future, the reward will be adjusted accordingly to maintain the same emission rate.
+        </p>
+        <p>
+        During the pre-deflationary phase (that is, now), we generate about 1.314 Billion Kaspa per month, or about 7.88 Billion Kaspa in total. The rest of the emission throughout the chromatic phase will total in about 20.6 Billion Kaspa. Hence, the supply cap is about 28.5 Billion (give or take about 100 Million which depend on exactly when the deflationary HF will kick in).
+        </p>
+
+
+        <h5>Can I mine Kaspa on a GPU?</h5>
+        A CUDA based <a href="https://github.com/tmrlvi/kaspa-miner" target="_blank">GPU Miner</a> has emerged from the community. To date, there are no openCL based miners.
         
         <h5>Is there a Kaspa wallet?</h5>
         <p>
