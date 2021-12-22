@@ -82,8 +82,10 @@
 
 
         <h5>Can I mine Kaspa on a GPU?</h5>
+        <p>
         A CUDA based <a href="https://github.com/tmrlvi/kaspa-miner" target="_blank">GPU Miner</a> has emerged from the community. To date, there are no openCL based miners.
-        
+        </p>
+
         <h5>Is there a Kaspa wallet?</h5>
         <p>
             At the moment, Kaspa does not have a GUI wallet. The Kaspa codebase contains a CLI wallet which requires a full node to operate. Want to help us create a GUI wallet? Contact us on our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>! You might even gain some bounties.
