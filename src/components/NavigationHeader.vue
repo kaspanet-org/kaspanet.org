@@ -4,7 +4,6 @@
             <div class="brand">
                 <router-link class="navbar-brand" to="/">
                     <img src="@/assets/logo.svg" width="48" />
-                    <span class="ms-3">KASPA</span>
                 </router-link>
             </div>
 
