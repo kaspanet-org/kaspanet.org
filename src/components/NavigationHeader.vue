@@ -3,7 +3,7 @@
         <div class="container">
             <div class="brand">
                 <router-link class="navbar-brand" to="/">
-                    <img src="@/assets/logo.svg" width="48" />
+                    <img src="@/assets/logo.svg" width="250" />
                 </router-link>
             </div>
 
