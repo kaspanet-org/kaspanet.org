@@ -83,12 +83,17 @@
 
         <h5>Can I mine Kaspa on a GPU?</h5>
         <p>
-        A CUDA based <a href="https://github.com/tmrlvi/kaspa-miner" target="_blank">GPU Miner</a> has emerged from the community. To date, there are no openCL based miners.
+        A CUDA based <a href="https://github.com/tmrlvi/kaspa-miner" target="_blank">GPU Miner</a> has emerged from the community.
         </p>
 
         <h5>Is there a Kaspa wallet?</h5>
         <p>
-            At the moment, Kaspa does not have a GUI wallet. The Kaspa codebase contains a CLI wallet which requires a full node to operate. Want to help us create a GUI wallet? Contact us on our <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>! You might even gain some bounties.
+          There are currently 3 types of wallets:
+          <ul>
+            <li><a href="https://wallet.kaspanet.io/">Kaspa web wallet</a> - Kaspa Web Wallet is the most user-friendly wallet available on the market today. The simple and easy-to-use interface makes it easy for you to send and receive payments.</li>
+            <li><a href="https://kdx.app/">Desktop wallet - KDX</a> - KDX process manager provides zero-effort installation and configuration of the Kaspa full-node software and the Kaspa Wallet when running in a desktop operating system environment.</li>
+            <li><a href="https://github.com/kaspanet/kaspad">Kaspa Command Line Wallet</a></li>
+          </ul>
         </p>
         
         <h5>Useful Links</h5>
@@ -97,8 +102,7 @@
                 <li>Community hubs: <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>, <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a>, <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>, <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.</li>
                 <li>Getting started guides: <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">the "official" guide</a>,  <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">screenshot guide for Windows users</a>.</li>
                 <li>Diagnostic tools: <a href="http://katnip.Kaspanet.org/" target="_blank">Katnip block explorer</a> (<a href="http://blockexplorer.Kaspanet.org/" target="_blank">Mirror</a>), <a href="http://kgi.Kaspanet.org/" target="_blank">KGI blockDAG visualizer</a>, <a href="http://kasboard.Kaspanet.org/" target="_blank">Kaspa board</a>.</li>
-                <li><a href="https://github.com/elichai/Kaspa-miner/releases/latest" target="_blank">Elichai's miner</a>.</li>
-
+                <li><a href="https://github.com/tmrlvi/kaspa-miner/releases/latest" target="_blank">GPU Miner</a>.</li>
             </ul>
         </p>
 
