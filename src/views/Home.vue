@@ -44,7 +44,7 @@
         </p>
         <h5>Sounds interesting, how can I engage the Kaspa community?</h5>
         <p>
-            The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow this <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.
+            The central hub of the community is currently the <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>. Other than that you are welcome to join our <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a> and <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>. Please also follow this <a href="https://twitter.com/KaspaCurrency" target="_blank">Twitter account</a>.
         </p>
 
         <h5>What kind of Hashing algorithm does Kaspa use?</h5>
