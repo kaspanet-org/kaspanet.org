@@ -99,9 +99,9 @@
         <h5>Useful Links</h5>
         <p>
             <ul>
-                <li>Community hubs: <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>, <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a>, <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>, <a href="https://twitter.com/CurrencyKaspa" target="_blank">Twitter account</a>.</li>
+                <li>Community hubs: <a href="https://discord.gg/kS3SK5F36R" target="_blank">Discord server</a>, <a href="https://t.me/Kaspaenglish" target="_blank">Telegram channel</a>, <a href="https://www.reddit.com/r/Kaspa/" target="_blank">subreddit</a>, <a href="https://twitter.com/KaspaCurrency" target="_blank">Twitter account</a>.</li>
                 <li>Getting started guides: <a href="https://github.com/Kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md" target="_blank">the "official" guide</a>,  <a href="https://steemit.com/crypto/@Kaspa/Kaspa-quick-start-guide" target="_blank">screenshot guide for Windows users</a>.</li>
-                <li>Diagnostic tools: <a href="http://katnip.Kaspanet.org/" target="_blank">Katnip block explorer</a> (<a href="http://blockexplorer.Kaspanet.org/" target="_blank">Mirror</a>), <a href="http://kgi.Kaspanet.org/" target="_blank">KGI blockDAG visualizer</a>, <a href="http://kasboard.Kaspanet.org/" target="_blank">Kaspa board</a>.</li>
+                <li>Diagnostic tools: <a href="http://katnip.Kaspanet.org/" target="_blank">Katnip block explorer</a> (<a href="http://blockexplorer.Kaspanet.org/" target="_blank">Mirror</a>), <a href="http://kgi.Kaspanet.org/" target="_blank">KGI blockDAG visualizer</a>, <a href="http://kasboard-mainnet.kas.pa/" target="_blank">Kaspa board</a>.</li>
                 <li><a href="https://github.com/tmrlvi/kaspa-miner/releases/latest" target="_blank">GPU Miner</a>.</li>
             </ul>
         </p>
